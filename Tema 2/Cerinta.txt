@@ -1,0 +1,13 @@
+Folosind OpenXR + XR Interaction Toolkit to the following:
+1) Setup OpenXR + XRToolkit 
+2) Setup XR Device simulator, astfel incat sa puteti testa in Unity, si fara Headset
+3) Construiti o experienta de aruncare a unor obiecte asupra unor tinte(ex. : darts). Obiectele vor fi apucate prin intermediul actiunilor Grab/Select. Odata ce obiectul atinge tinta se face trigger la un event care afiseaza un scor. Evenimentul va fi semnalat vizual in experienta, prin orice metoda doriti.
+Se va genera un scor la impact bazat pe distanta de unde se arunca obiectul si pana ajunge la tinta.
+Linkuri utile: 
+Setup: https://www.youtube.com/watch?v=UlqdHrfXppo&ab_channel=Valem
+Canal cu cate un video legat de orice aveti nevoie in XRToolkit: https://www.youtube.com/c/JustinPBarnett/videos
+Barem de punctare:
+1)Setup - 5p
+2)Handle throw event - 3p
+3)Generate scor - 2p
+4)Bonus: animatii/efecte etc. 

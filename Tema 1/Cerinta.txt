@@ -1,0 +1,14 @@
+Experienta AR in care sa plasati personaje din pe asset store in AR, care vor interactiona astfel:
+1) Folositi Unity (de preferat 2021). Personajele pot fi plasate pe podea cu "Tap to place" (ARFoundation + ARCore - android / ARKit - ARCore) sau cu image targets, folosing 2 image targets care se pot apropia si departa (Vuforia). Vuforia merge si pe webcamul de la PC, in caz ca cineva nu poate face build pe telefon. (5p)
+Links: 
+https://youtu.be/xguiSueY1Lw
+https://github.com/.../main/Assets/Scripts/PlaceOnPlane.cs
+--
+https://library.vuforia.com/.../getting-started-vuforia...
+https://youtu.be/Z4bBMpa4xWo
+2) Gasiti pe Unity Asset Store un personaj animat care sa aiba cel putin 2 animatii. Idle si Attack. Personajul instantiat va fi in modul idle. Faceti setupul Stateurilor din Animator astfel incat sa suporte si tranzitia la Attack  (2p)
+Cactus: https://assetstore.unity.com/.../character-cactus-32933
+Animator: https://youtu.be/tveRasxUabo
+3) La detectarea unui alt cactus/personaj la in apropiere (0.25 metri, sau cum se simte mai ok), un personaj isi va schimba animatia). Write easy to read code 🙏 (3p)
+More about scripting: https://learn.unity.com/course/beginner-scripting
+Bonus pt creativitate (2p)
