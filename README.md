@@ -1,1 +1,2 @@
-Incepand cu tema a 2-a am lucrat impreuna cu Pastragus Paula-Malina
+Proiectul se afla in urmatorul repo: 
+https://github.com/Tudor-Alexandru-B4/IMR_Qube.git
